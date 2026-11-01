@@ -1,0 +1,5 @@
+{
+  "java.debug.settings.onBuildFailureProceed": true,
+  "java.project.sourcePaths": ["Lab1/src"],
+  "java.project.outputPath": "Lab1/bin"
+}
